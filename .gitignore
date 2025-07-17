@@ -1,0 +1,27 @@
+# Módulos instalados
+/node_modules/
+
+# Logs do sistema e do Nodemon
+*.log
+npm-debug.log*
+nodemon-debug.log
+
+# Arquivos de ambiente
+.env
+
+# Diretórios de build (caso venha a usar futuramente)
+/dist/
+/build/
+
+# Diretórios temporários
+/tmp/
+/temp/
+*.tmp
+
+# Configurações do editor
+.vscode/
+.idea/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
